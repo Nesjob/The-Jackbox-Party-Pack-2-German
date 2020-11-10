@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "jet pack|mit einem jet pack|mit einem raketenrucksack|einem raketenrucksack|raketenrucksack",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ein einzigartiger Weg aus dem Gef\u00e4ngis zu fliehen",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "377226_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "377224_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "scheisse|kot|stuhlgang|kacke",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Das Material, welches sich am wenigsten dazu eignet einen Schneemann zu bauen",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378234_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378232_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

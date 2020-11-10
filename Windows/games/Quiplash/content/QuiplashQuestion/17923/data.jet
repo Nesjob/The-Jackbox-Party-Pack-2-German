@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "mehr lose kaufen|noch mehr lose kaufen|mehr lottoscheine kaufen|weiterspielen",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Was w\u00fcrdest du als erstes machen wenn du im Lotto gewonnen hast",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374157_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374155_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

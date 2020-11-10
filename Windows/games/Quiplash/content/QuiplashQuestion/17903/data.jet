@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "satan|den teufel",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Also, ein Selbstportr\u00e4t?!",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Welches Tattoo sollte sich Justin Bieber als n\u00e4chstes stechen lassen?",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374097_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374095_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

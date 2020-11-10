@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "made into snowcones|made into snow cones|Olaf gets made into snocones|olaf gets made into a snowcone|olaf becomes a snow cone|olaf becomes a snow cone|becomes a snow cone|becomes a snowcone|gets made into a snowcone|gets made into a snow cone|gets eaten as a snowcone|gets eaten as a snow cone|zu snow cones verarbeitet",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Das schreckliche Schicksal des Schneemanns Olaf im Director\u2019s Cut von <i>Die Eisk\u00f6nigin \u2013 V\u00f6llig unverfroren</i>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374802_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374800_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

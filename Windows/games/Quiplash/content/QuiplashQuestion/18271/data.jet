@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "r\u00fcckenhaargl\u00e4tter|r\u00fcckenhaar gl\u00e4tter|r\u00fcckenhaar gl\u00e4tteger\u00e4t",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Eine Erfindung von Thomas Edison von der niemand etwas wei\u00df",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376173_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376171_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

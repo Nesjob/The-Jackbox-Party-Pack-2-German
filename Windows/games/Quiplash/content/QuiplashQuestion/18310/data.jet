@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "i like big butts|ich mag grosse \u00e4rsche|ich mag dicke \u00e4rsche",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ein schnellerer Weg, um aus der Welt von Oz zu entkommen: Schlage dreimal die Hacken zusammen und sage <BLANK>.",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376374_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376372_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Whoopi Goldberg",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Jaaa, Whoopi Goldberg? Ich glaube nicht. Den ganzen Tag nur Geschichten \u00fcber Sister Act 2. (schauert)",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Du m\u00f6chtest dir keine Gef\u00e4ngniszelle mit einem Verbrecher namens <BLANK> teilen",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374043_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374041_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

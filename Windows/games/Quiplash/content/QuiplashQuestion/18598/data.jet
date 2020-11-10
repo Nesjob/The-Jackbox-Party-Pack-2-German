@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "nichts|nix",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Was passiert, wenn du das Etikett einer Matratze mit der Aufschrift \u201cNicht entfernen\u201d abziehst?",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378372_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378370_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

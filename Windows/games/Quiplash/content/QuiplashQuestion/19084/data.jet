@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "m\u00e4nner windel|m\u00e4nner windeln|windeln f\u00fcr erwachsene",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Etwas Perverses und Merkw\u00fcrdiges, was NICHT in 50 Shades of Grey passiert (soweit du wei\u00dft)",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "381750_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "381748_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

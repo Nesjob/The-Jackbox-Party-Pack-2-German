@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "von Aliens entf\u00fchrt|Alien Entf\u00fchrung|von Aliens gekidnapped|Alien kidnapping|Verschleppt von Aliens|Alienverschleppung",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Wenn du die Alienentf\u00fchrungskiste benutzt, musst du auf jeden Fall mit einer merkw\u00fcrdigen Gangart \u00fcberzeugen.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Die schlechteste Ausrede, weshalb du zu sp\u00e4t zur Arbeit kommst",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374052_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374050_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "wonach schmeckt katze?|schmeckt katze gut?|wie schmeckt katze?|wie schmeckt eigentlich katze?|schmeckt katze eigentlich gut?|wonach schmeckt eigentlich katze",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Das Schlechteste das man sagen kann, wenn man ein Tier adoptieren will",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375678_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375676_1",
+      "n": "PromptAudio"
+    }
+  ]
+}
