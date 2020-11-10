@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "ich habe mich eingepisst|ich habe in die hose gepinkelt|ich habe in die hose gepisst",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Menschen w\u00fcrden He-Man nicht derart respektieren, wenn er um seine Kraft zu st\u00e4rken sein Schwert in die Luft halten w\u00fcrde und \u201c____________________\u201d schreien w\u00fcrde",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375687_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375685_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

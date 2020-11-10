@@ -1,0 +1,54 @@
+{
+  "games": [
+    {
+      "name":"Fibbage2",
+      "mainSwf": "Fibbage2.swf",
+      "title": "Fibbage 2",
+      "players": "2-8 SPIELER",
+	  "family": true,
+	  "audience": true,
+      "description":"More Fibbage! Lie to your friends, avoid their lies, and spot the truth. “In Arizona, you must obtain a permit to feed ______ to pigs.” Go!",
+      "video":"videos/fibbage2"
+    },
+    {
+      "name":"Earwax",
+      "mainSwf": "Earwax.swf",
+      "title": "Earwax",
+      "players": "3-8 SPIELER",
+	  "family": true,
+	  "audience": true,
+      "description":"Cow moo? Huge explosion? Or tiny fart? Which to choose? It's the sound effects game that will leave you up to your ears in laughter!",
+      "video":"videos/earwax"
+    },
+    {
+      "name":"Auction",
+      "mainSwf": "Auction.swf",
+      "title": "Bidiots",
+      "players": "3-6 SPIELER",
+	  "family": false,
+	  "audience": false,
+      "description":"Überbiete deine Gegner bei irrwitzigen (von anderen Spielern gezeichneten) Kunstwerken und gewinne dieses seltsam umkämpfte Auktionsspiel.",
+      "video":"videos/auction"
+    },
+    {
+      "name":"Quiplash",
+      "mainSwf": "Quiplash.swf",
+      "title": "Quiplash XL",
+      "players": "3-8 SPIELER",
+	  "family": true,
+	  "audience": true,
+      "description":"Das Duell des Witzes und der Witzigkeit in seiner GEWALTIGSTEN Form! Denke dir die lustigsten Antworten aus und gewinne das Spiel!",
+      "video":"videos/quiplashxl"
+    },
+    {
+      "name":"BombInterns",
+      "mainSwf": "BombInterns.swf",
+      "title": "Bomb Corp.",
+      "players": "1-4 SPIELER",
+	  "family": false,
+	  "audience": false,
+      "description":"Welcome to Bomb Corp. Interns of your kind must help defuse bombs in our office. It’s a weird office full of bombs. Just hit start.",
+      "video":"videos/bombinterns"
+    }
+  ]
+}

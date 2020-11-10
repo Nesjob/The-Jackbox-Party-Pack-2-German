@@ -1,0 +1,43 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Penny Serenade",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Was solltest du unter keinen Umst\u00e4nden w\u00e4hrend eines Bewerbungsgespr\u00e4chs von dir geben?",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Seattle, WA",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "407732_0f",
+      "n": "PromptAudio"
+    }
+  ]
+}

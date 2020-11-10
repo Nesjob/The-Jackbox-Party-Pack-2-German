@@ -1,0 +1,43 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Adam Pace",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Wenn die Evolutionstheorie der Wahrheit entspricht, warum hat sich <BLANK> nicht in <BLANK> entwickelt?",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "twitch.tv/KingBohica",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "407717_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "sch\u00f6nschreiben",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Und trotzdem ist das das Beste \u201cS\u201d das er sich ausdenken kann?",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Supermans Kraft von der er niemanden erz\u00e4hlt",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374049_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374047_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

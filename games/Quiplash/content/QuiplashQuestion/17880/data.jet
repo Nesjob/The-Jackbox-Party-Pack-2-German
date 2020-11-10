@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Massage in a Bottle",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ja, geht lieber nicht zu Massage in a bottle. Die haben nicht nur eine Schw\u00e4che f\u00fcr schlechte Wortspiele, sondern auch f\u00fcr schlechte Wortspiele die auf Sting songs basieren.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Du solltest an keinem Ort namens <BLANK> eine Massage bekommen",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374028_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374026_0",
+      "n": "PromptAudio"
+    }
+  ]
+}
