@@ -7,7 +7,7 @@
       "players": "2-8 SPIELER",
 	  "family": true,
 	  "audience": true,
-      "description":"Mehr Fibbage! Lügt eure Freunde an, vermeidet ihre Lügen und erkennet Wahrheit. “In Arizona müssen Sie eine Genehmigung einholen, um ______ an Schweine zu verfüttern..” Los!",
+      "description":"Mehr Fibbage! Lügt eure Freunde an, vermeidet ihre Lügen und erkennt die Wahrheit. Los!",
       "video":"videos/fibbage2"
     },
     {
@@ -47,7 +47,7 @@
       "players": "1-4 SPIELER",
 	  "family": false,
 	  "audience": false,
-      "description":"Willkommen bei Bomb Corp. Praktikanten eurer Art müssen in unserem Büro helfen, Bomben zu entschärfen. Es ist ein seltsames Büro voller Bomben. Drückt einfach Start.",
+      "description":"Willkommen bei Bomb Corp. Praktikanten eurer Art müssen in unserem Büro helfen, Bomben zu entschärfen.. Drückt einfach Start.",
       "video":"videos/bombinterns"
     }
   ]
