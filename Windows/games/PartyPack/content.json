@@ -7,7 +7,7 @@
       "players": "2-8 SPIELER",
 	  "family": true,
 	  "audience": true,
-      "description":"More Fibbage! Lie to your friends, avoid their lies, and spot the truth. “In Arizona, you must obtain a permit to feed ______ to pigs.” Go!",
+      "description":"Mehr Fibbage! Lügt eure Freunde an, vermeidet ihre Lügen und erkennet Wahrheit. “In Arizona müssen Sie eine Genehmigung einholen, um ______ an Schweine zu verfüttern..” Los!",
       "video":"videos/fibbage2"
     },
     {
@@ -17,7 +17,7 @@
       "players": "3-8 SPIELER",
 	  "family": true,
 	  "audience": true,
-      "description":"Cow moo? Huge explosion? Or tiny fart? Which to choose? It's the sound effects game that will leave you up to your ears in laughter!",
+      "description":"Kuh-Muh? Riesige Explosion? Oder kleiner Furz? Was soll man wählen? Dieses Spiel mit Soundeffekten wird euch bis über beide Ohren lachen lassen!",
       "video":"videos/earwax"
     },
     {
@@ -47,7 +47,7 @@
       "players": "1-4 SPIELER",
 	  "family": false,
 	  "audience": false,
-      "description":"Welcome to Bomb Corp. Interns of your kind must help defuse bombs in our office. It’s a weird office full of bombs. Just hit start.",
+      "description":"Willkommen bei Bomb Corp. Praktikanten eurer Art müssen in unserem Büro helfen, Bomben zu entschärfen. Es ist ein seltsames Büro voller Bomben. Drückt einfach Start.",
       "video":"videos/bombinterns"
     }
   ]
