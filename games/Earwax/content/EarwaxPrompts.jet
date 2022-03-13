@@ -480,7 +480,7 @@
         { "id":25079, "x":false, "PromptAudio":"426388_0f", "name":"Die leichteste Actionszene, die Indiana Jones je bestehen musste" },
         { "id":25421, "x":false, "PromptAudio":"428333_0f", "name":"Die meisten Episoden von <i>Game of Thrones</i>" },
         { "id":25431, "x":false, "PromptAudio":"428353_0f", "name":"Was der Nikolaus macht, wenn man böse war" },
-        { "id":25449, "x":false, "PromptAudio":"428389_0f", "name":"<i>Das Dschngelcamp</i>" },
+        { "id":25449, "x":false, "PromptAudio":"428389_0f", "name":"<i>Das Dschungelcamp</i>" },
         { "id":25424, "x":false, "PromptAudio":"428339_0f", "name":"Dating in der Zukunft" },
         { "id":25517, "x":false, "PromptAudio":"429153_0f", "name":"Wartezimmer in der Notaufnahme" },
         { "id":25409, "x":true, "PromptAudio":"428309_0f", "name":"Durchsuchung von Körperöffnungen" },

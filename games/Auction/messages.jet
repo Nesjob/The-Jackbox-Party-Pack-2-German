@@ -51,10 +51,10 @@
         "Versuche <PLAYER_NAME> wertlose Kunstwerke anzudrehen. Sonst ist der Sieg chancenlos!"
     ],
     "doNotScrew":[
-        "Verschwende deine Schraube nicht! <PLAYER_NAME> hat zurzeit weniger als $1.000. ",
-        "Verschwende deine Schraube nicht! <PLAYER_NAME> hat zurzeit nur wenige Moneten.",
-        "Verschwende deine Schraube nicht! <PLAYER_NAME> hat zurzeit eine schlechte finanzielle Situation.",
-        "Verschwende deine Schraube nicht! <PLAYER_NAME> hat nicht genügend Geld."
+        "Verschwende deinen Nagel nicht! <PLAYER_NAME> hat zurzeit weniger als $1.000. ",
+        "Verschwende deinen Nagel nicht! <PLAYER_NAME> hat zurzeit nur wenige Moneten.",
+        "Verschwende deinen Nagel nicht! <PLAYER_NAME> hat zurzeit eine schlechte finanzielle Situation.",
+        "Verschwende deinen Nagel nicht! <PLAYER_NAME> hat nicht genügend Geld."
     ],
     "requestPlayerArt":[  
         "Ich brauche ein Kunstwerk von <PLAYER_NAME>! Ich bezahle dir <VALUE> dafür!",
@@ -92,17 +92,17 @@
         "Du hast dir selbst das schönste Geschenk von allen gemacht: Geld."
     ],
     "revengeScrew":[
-        "Vergiss nicht, dass <PLAYER_NAME> dir vorher die Schraube angesetzt hat. Rache. Rache!",
-        "<PLAYER_NAME> hat dir bei der letzten Auktion die Schraube angesetzt. Lässt du <PLAYER_NAME> damit davonkommen?",
-        "Dir wurde die Schraube angesetzt. Die Schraube! <PLAYER_NAME> muss dafür bezahlen!!",
-        "Erinnern wir <PLAYER_NAME> daran, das nichts so grausam sein kann, wie die Rache eines Kunstkaufenden, dem die Schraube angesetzt wurde.", 
-        "<PLAYER_NAME> hat dir die Schraube angesetzt. Sollen wir uns rächen?",
-        "Ich vergesse nie eine angesetzte Schraube. Sollen wir uns an <PLAYER_NAME> rächen?",
-        "Also <PLAYER_NAME> setzt uns die Schraube an und denkt fliehen zu können? Wie wär es mit Vergeltung?",
-        "<PLAYER_NAME> wird den Tag bereuen, als uns die Schraube angesetzt wurde.",
+        "Vergiss nicht, dass <PLAYER_NAME> dir vorher den Nagel angesetzt hat. Rache. Rache!",
+        "<PLAYER_NAME> hat dir bei der letzten Auktion den Nagel angesetzt. Lässt du <PLAYER_NAME> damit davonkommen?",
+        "Dir wurde der Nagel angesetzt. Der Nagel! <PLAYER_NAME> muss dafür bezahlen!!",
+        "Erinnern wir <PLAYER_NAME> daran, das nichts so grausam sein kann, wie die Rache eines Kunstkaufenden, dem der Nagel angesetzt wurde.", 
+        "<PLAYER_NAME> hat dir den Nagel angesetzt. Sollen wir uns rächen?",
+        "Ich vergesse nie einen angesetzten Nagel. Sollen wir uns an <PLAYER_NAME> rächen?",
+        "Also <PLAYER_NAME> setzt uns den Nagel an und denkt fliehen zu können? Wie wär es mit Vergeltung?",
+        "<PLAYER_NAME> wird den Tag bereuen, als uns der Nagel angesetzt wurde.",
         "Lach nur, <PLAYER_NAME>. Dieses Spiel kann man auch zu zweit spielen…",
-        "<PLAYER_NAME> hat gerade einen grossen Fehler gemacht. Wir sollten uns mit einer Schraube revanchieren.",
-        "Die einzige Rache, die besser als der Erfolg ist: setze <PLAYER_NAME> die Schraube an."
+        "<PLAYER_NAME> hat gerade einen grossen Fehler gemacht. Wir sollten uns mit einem Nagel revanchieren.",
+        "Die einzige Rache, die besser als der Erfolg ist: Setze <PLAYER_NAME> den Nagel an."
     ],
     "brokeEven":[
         "Nun… das war kein grosser Zahltag, aber ich weiss deine Mühe zu schätzen.",
